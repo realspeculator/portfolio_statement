@@ -1,0 +1,235 @@
+﻿Cash Balance
+DATE,TIME,TYPE,REF #,DESCRIPTION,Misc Fees,Commissions & Fees,AMOUNT,BALANCE
+1/1/24,01:00:00,BAL,,Cash balance at the start of business day 01.01 CST,,,,"100,000,000.00"
+1/2/24,01:00:00,BAL,,Cash balance at the start of business day 02.01 CST,,,,"100,000,000.00"
+1/2/24,11:48:59,TRD,1765473304,"BOT +150,000 AMZN @150.29",,,"-22,543,500.00","77,456,500.00"
+1/2/24,11:49:36,TRD,1765473316,"BOT +150,000 SMH @170.41",,,"-25,561,500.00","51,895,000.00"
+1/2/24,12:14:59,TRD,1765487917,"BOT +130,000 SPOT @189.04",,,"-24,575,200.00","27,319,800.00"
+1/3/24,01:00:00,BAL,,Cash balance at the start of business day 03.01 CST,,,,"27,319,800.00"
+1/4/24,01:00:00,BAL,,Cash balance at the start of business day 04.01 CST,,,,"27,319,800.00"
+1/4/24,12:39:24,TRD,1766351503,BOT +100 /ESH24:XCME @4750.50,-119.00,-225.00,,"27,319,456.00"
+1/4/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4729.50 official settlement price,,,"-105,000.00","27,214,456.00"
+1/5/24,01:00:00,BAL,,Cash balance at the start of business day 05.01 CST,,,,"27,214,456.00"
+1/5/24,09:37:12,TRD,1766591639,BOT +100 /ESH24:XCME @4739.25,-119.00,-225.00,,"27,214,112.00"
+1/5/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4734.75 official settlement price,,,"3,750.00","27,217,862.00"
+1/6/24,01:00:00,BAL,,Cash balance at the start of business day 06.01 CST,,,,"27,217,862.00"
+1/7/24,01:00:00,BAL,,Cash balance at the start of business day 07.01 CST,,,,"27,217,862.00"
+1/8/24,01:00:00,BAL,,Cash balance at the start of business day 08.01 CST,,,,"27,217,862.00"
+1/8/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4801.25 official settlement price,,,"665,000.00","27,882,862.00"
+1/9/24,01:00:00,BAL,,Cash balance at the start of business day 09.01 CST,,,,"27,882,862.00"
+1/9/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4792.75 official settlement price,,,"-85,000.00","27,797,862.00"
+1/10/24,01:00:00,BAL,,Cash balance at the start of business day 10.01 CST,,,,"27,797,862.00"
+1/10/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4820.25 official settlement price,,,"275,000.00","28,072,862.00"
+1/11/24,01:00:00,BAL,,Cash balance at the start of business day 11.01 CST,,,,"28,072,862.00"
+1/11/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4815.50 official settlement price,,,"-47,500.00","28,025,362.00"
+1/12/24,01:00:00,BAL,,Cash balance at the start of business day 12.01 CST,,,,"28,025,362.00"
+1/12/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4816.50 official settlement price,,,"10,000.00","28,035,362.00"
+1/13/24,01:00:00,BAL,,Cash balance at the start of business day 13.01 CST,,,,"28,035,362.00"
+1/14/24,01:00:00,BAL,,Cash balance at the start of business day 14.01 CST,,,,"28,035,362.00"
+1/15/24,01:00:00,BAL,,Cash balance at the start of business day 15.01 CST,,,,"28,035,362.00"
+1/16/24,01:00:00,BAL,,Cash balance at the start of business day 16.01 CST,,,,"28,035,362.00"
+1/16/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4798.50 official settlement price,,,"-180,000.00","27,855,362.00"
+1/17/24,01:00:00,BAL,,Cash balance at the start of business day 17.01 CST,,,,"27,855,362.00"
+1/17/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4771.25 official settlement price,,,"-272,500.00","27,582,862.00"
+1/18/24,01:00:00,BAL,,Cash balance at the start of business day 18.01 CST,,,,"27,582,862.00"
+1/18/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4811.25 official settlement price,,,"400,000.00","27,982,862.00"
+1/19/24,01:00:00,BAL,,Cash balance at the start of business day 19.01 CST,,,,"27,982,862.00"
+1/19/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4869.50 official settlement price,,,"582,500.00","28,565,362.00"
+1/20/24,01:00:00,BAL,,Cash balance at the start of business day 20.01 CST,,,,"28,565,362.00"
+1/21/24,01:00:00,BAL,,Cash balance at the start of business day 21.01 CST,,,,"28,565,362.00"
+1/22/24,01:00:00,BAL,,Cash balance at the start of business day 22.01 CST,,,,"28,565,362.00"
+1/22/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4881.00 official settlement price,,,"115,000.00","28,680,362.00"
+1/23/24,01:00:00,BAL,,Cash balance at the start of business day 23.01 CST,,,,"28,680,362.00"
+1/23/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4895.00 official settlement price,,,"140,000.00","28,820,362.00"
+1/24/24,01:00:00,BAL,,Cash balance at the start of business day 24.01 CST,,,,"28,820,362.00"
+1/24/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4898.00 official settlement price,,,"30,000.00","28,850,362.00"
+1/25/24,01:00:00,BAL,,Cash balance at the start of business day 25.01 CST,,,,"28,850,362.00"
+1/25/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4923.25 official settlement price,,,"252,500.00","29,102,862.00"
+1/26/24,01:00:00,BAL,,Cash balance at the start of business day 26.01 CST,,,,"29,102,862.00"
+1/26/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4916.25 official settlement price,,,"-70,000.00","29,032,862.00"
+1/27/24,01:00:00,BAL,,Cash balance at the start of business day 27.01 CST,,,,"29,032,862.00"
+1/28/24,01:00:00,BAL,,Cash balance at the start of business day 28.01 CST,,,,"29,032,862.00"
+1/29/24,01:00:00,BAL,,Cash balance at the start of business day 29.01 CST,,,,"29,032,862.00"
+1/29/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4954.50 official settlement price,,,"382,500.00","29,415,362.00"
+1/30/24,01:00:00,BAL,,Cash balance at the start of business day 30.01 CST,,,,"29,415,362.00"
+1/30/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4951.00 official settlement price,,,"-35,000.00","29,380,362.00"
+1/31/24,01:00:00,BAL,,Cash balance at the start of business day 31.01 CST,,,,"29,380,362.00"
+1/31/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4870.50 official settlement price,,,"-805,000.00","28,575,362.00"
+2/1/24,01:00:00,BAL,,Cash balance at the start of business day 01.02 CST,,,,"28,575,362.00"
+2/1/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4928.50 official settlement price,,,"580,000.00","29,155,362.00"
+2/2/24,01:00:00,BAL,,Cash balance at the start of business day 02.02 CST,,,,"29,155,362.00"
+2/2/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4980.25 official settlement price,,,"517,500.00","29,672,862.00"
+2/3/24,01:00:00,BAL,,Cash balance at the start of business day 03.02 CST,,,,"29,672,862.00"
+2/4/24,01:00:00,BAL,,Cash balance at the start of business day 04.02 CST,,,,"29,672,862.00"
+2/5/24,01:00:00,BAL,,Cash balance at the start of business day 05.02 CST,,,,"29,672,862.00"
+2/5/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4962.00 official settlement price,,,"-182,500.00","29,490,362.00"
+2/6/24,01:00:00,BAL,,Cash balance at the start of business day 06.02 CST,,,,"29,490,362.00"
+2/6/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4974.75 official settlement price,,,"127,500.00","29,617,862.00"
+2/7/24,01:00:00,BAL,,Cash balance at the start of business day 07.02 CST,,,,"29,617,862.00"
+2/7/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5015.25 official settlement price,,,"405,000.00","30,022,862.00"
+2/8/24,01:00:00,BAL,,Cash balance at the start of business day 08.02 CST,,,,"30,022,862.00"
+2/8/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5017.75 official settlement price,,,"25,000.00","30,047,862.00"
+2/9/24,01:00:00,BAL,,Cash balance at the start of business day 09.02 CST,,,,"30,047,862.00"
+2/9/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5044.00 official settlement price,,,"262,500.00","30,310,362.00"
+2/10/24,01:00:00,BAL,,Cash balance at the start of business day 10.02 CST,,,,"30,310,362.00"
+2/11/24,01:00:00,BAL,,Cash balance at the start of business day 11.02 CST,,,,"30,310,362.00"
+2/12/24,01:00:00,BAL,,Cash balance at the start of business day 12.02 CST,,,,"30,310,362.00"
+2/12/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5041.25 official settlement price,,,"-27,500.00","30,282,862.00"
+2/13/24,01:00:00,BAL,,Cash balance at the start of business day 13.02 CST,,,,"30,282,862.00"
+2/13/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4971.25 official settlement price,,,"-700,000.00","29,582,862.00"
+2/14/24,01:00:00,BAL,,Cash balance at the start of business day 14.02 CST,,,,"29,582,862.00"
+2/14/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5018.00 official settlement price,,,"467,500.00","30,050,362.00"
+2/15/24,01:00:00,BAL,,Cash balance at the start of business day 15.02 CST,,,,"30,050,362.00"
+2/15/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5046.50 official settlement price,,,"285,000.00","30,335,362.00"
+2/16/24,01:00:00,BAL,,Cash balance at the start of business day 16.02 CST,,,,"30,335,362.00"
+2/16/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5019.75 official settlement price,,,"-267,500.00","30,067,862.00"
+2/17/24,01:00:00,BAL,,Cash balance at the start of business day 17.02 CST,,,,"30,067,862.00"
+2/18/24,01:00:00,BAL,,Cash balance at the start of business day 18.02 CST,,,,"30,067,862.00"
+2/19/24,01:00:00,BAL,,Cash balance at the start of business day 19.02 CST,,,,"30,067,862.00"
+2/20/24,01:00:00,BAL,,Cash balance at the start of business day 20.02 CST,,,,"30,067,862.00"
+2/20/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4991.50 official settlement price,,,"-282,500.00","29,785,362.00"
+2/21/24,01:00:00,BAL,,Cash balance at the start of business day 21.02 CST,,,,"29,785,362.00"
+2/21/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 4996.25 official settlement price,,,"47,500.00","29,832,862.00"
+2/22/24,01:00:00,BAL,,Cash balance at the start of business day 22.02 CST,,,,"29,832,862.00"
+2/22/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5097.75 official settlement price,,,"1,015,000.00","30,847,862.00"
+2/23/24,01:00:00,BAL,,Cash balance at the start of business day 23.02 CST,,,,"30,847,862.00"
+2/23/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5101.50 official settlement price,,,"37,500.00","30,885,362.00"
+2/24/24,01:00:00,BAL,,Cash balance at the start of business day 24.02 CST,,,,"30,885,362.00"
+2/25/24,01:00:00,BAL,,Cash balance at the start of business day 25.02 CST,,,,"30,885,362.00"
+2/26/24,01:00:00,BAL,,Cash balance at the start of business day 26.02 CST,,,,"30,885,362.00"
+2/26/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5080.25 official settlement price,,,"-212,500.00","30,672,862.00"
+2/27/24,01:00:00,BAL,,Cash balance at the start of business day 27.02 CST,,,,"30,672,862.00"
+2/27/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5090.00 official settlement price,,,"97,500.00","30,770,362.00"
+2/28/24,01:00:00,BAL,,Cash balance at the start of business day 28.02 CST,,,,"30,770,362.00"
+2/28/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5081.00 official settlement price,,,"-90,000.00","30,680,362.00"
+2/29/24,01:00:00,BAL,,Cash balance at the start of business day 29.02 CST,,,,"30,680,362.00"
+2/29/24,16:15:00,ADJ,,/ESH24:XCME mark to market at 5103.75 official settlement price,,,"227,500.00","30,907,862.00"
+3/1/24,01:00:00,BAL,,Cash balance at the start of business day 01.03 CST,,,,"30,907,862.00"
+,,,,TOTAL,($238.00),($450.00),"($69,091,450.00)","$30,907,862.00"
+
+Futures Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Misc Fees,Commissions & Fees,Amount,Balance
+
+Forex Statements
+,Date,Time,Type,Ref #,Description,Commissions & Fees,Amount,Amount(USD),Balance
+,1/1/24,01:00:00,BAL,--,Cash balance at the start of the business day 01.01 CST.,--,--,--,"$10,000.00"
+,1/2/24,01:00:00,BAL,--,Cash balance at the start of the business day 02.01 CST.,--,--,--,"$10,000.00"
+,1/3/24,01:00:00,BAL,--,Cash balance at the start of the business day 03.01 CST.,--,--,--,"$10,000.00"
+,1/4/24,01:00:00,BAL,--,Cash balance at the start of the business day 04.01 CST.,--,--,--,"$10,000.00"
+,1/5/24,01:00:00,BAL,--,Cash balance at the start of the business day 05.01 CST.,--,--,--,"$10,000.00"
+,1/6/24,01:00:00,BAL,--,Cash balance at the start of the business day 06.01 CST.,--,--,--,"$10,000.00"
+,1/7/24,01:00:00,BAL,--,Cash balance at the start of the business day 07.01 CST.,--,--,--,"$10,000.00"
+,1/8/24,01:00:00,BAL,--,Cash balance at the start of the business day 08.01 CST.,--,--,--,"$10,000.00"
+,1/9/24,01:00:00,BAL,--,Cash balance at the start of the business day 09.01 CST.,--,--,--,"$10,000.00"
+,1/10/24,01:00:00,BAL,--,Cash balance at the start of the business day 10.01 CST.,--,--,--,"$10,000.00"
+,1/11/24,01:00:00,BAL,--,Cash balance at the start of the business day 11.01 CST.,--,--,--,"$10,000.00"
+,1/12/24,01:00:00,BAL,--,Cash balance at the start of the business day 12.01 CST.,--,--,--,"$10,000.00"
+,1/13/24,01:00:00,BAL,--,Cash balance at the start of the business day 13.01 CST.,--,--,--,"$10,000.00"
+,1/14/24,01:00:00,BAL,--,Cash balance at the start of the business day 14.01 CST.,--,--,--,"$10,000.00"
+,1/15/24,01:00:00,BAL,--,Cash balance at the start of the business day 15.01 CST.,--,--,--,"$10,000.00"
+,1/16/24,01:00:00,BAL,--,Cash balance at the start of the business day 16.01 CST.,--,--,--,"$10,000.00"
+,1/17/24,01:00:00,BAL,--,Cash balance at the start of the business day 17.01 CST.,--,--,--,"$10,000.00"
+,1/18/24,01:00:00,BAL,--,Cash balance at the start of the business day 18.01 CST.,--,--,--,"$10,000.00"
+,1/19/24,01:00:00,BAL,--,Cash balance at the start of the business day 19.01 CST.,--,--,--,"$10,000.00"
+,1/20/24,01:00:00,BAL,--,Cash balance at the start of the business day 20.01 CST.,--,--,--,"$10,000.00"
+,1/21/24,01:00:00,BAL,--,Cash balance at the start of the business day 21.01 CST.,--,--,--,"$10,000.00"
+,1/22/24,01:00:00,BAL,--,Cash balance at the start of the business day 22.01 CST.,--,--,--,"$10,000.00"
+,1/23/24,01:00:00,BAL,--,Cash balance at the start of the business day 23.01 CST.,--,--,--,"$10,000.00"
+,1/24/24,01:00:00,BAL,--,Cash balance at the start of the business day 24.01 CST.,--,--,--,"$10,000.00"
+,1/25/24,01:00:00,BAL,--,Cash balance at the start of the business day 25.01 CST.,--,--,--,"$10,000.00"
+,1/26/24,01:00:00,BAL,--,Cash balance at the start of the business day 26.01 CST.,--,--,--,"$10,000.00"
+,1/27/24,01:00:00,BAL,--,Cash balance at the start of the business day 27.01 CST.,--,--,--,"$10,000.00"
+,1/28/24,01:00:00,BAL,--,Cash balance at the start of the business day 28.01 CST.,--,--,--,"$10,000.00"
+,1/29/24,01:00:00,BAL,--,Cash balance at the start of the business day 29.01 CST.,--,--,--,"$10,000.00"
+,1/30/24,01:00:00,BAL,--,Cash balance at the start of the business day 30.01 CST.,--,--,--,"$10,000.00"
+,1/31/24,01:00:00,BAL,--,Cash balance at the start of the business day 31.01 CST.,--,--,--,"$10,000.00"
+,2/1/24,01:00:00,BAL,--,Cash balance at the start of the business day 01.02 CST.,--,--,--,"$10,000.00"
+,2/2/24,01:00:00,BAL,--,Cash balance at the start of the business day 02.02 CST.,--,--,--,"$10,000.00"
+,2/3/24,01:00:00,BAL,--,Cash balance at the start of the business day 03.02 CST.,--,--,--,"$10,000.00"
+,2/4/24,01:00:00,BAL,--,Cash balance at the start of the business day 04.02 CST.,--,--,--,"$10,000.00"
+,2/5/24,01:00:00,BAL,--,Cash balance at the start of the business day 05.02 CST.,--,--,--,"$10,000.00"
+,2/6/24,01:00:00,BAL,--,Cash balance at the start of the business day 06.02 CST.,--,--,--,"$10,000.00"
+,2/7/24,01:00:00,BAL,--,Cash balance at the start of the business day 07.02 CST.,--,--,--,"$10,000.00"
+,2/8/24,01:00:00,BAL,--,Cash balance at the start of the business day 08.02 CST.,--,--,--,"$10,000.00"
+,2/9/24,01:00:00,BAL,--,Cash balance at the start of the business day 09.02 CST.,--,--,--,"$10,000.00"
+,2/10/24,01:00:00,BAL,--,Cash balance at the start of the business day 10.02 CST.,--,--,--,"$10,000.00"
+,2/11/24,01:00:00,BAL,--,Cash balance at the start of the business day 11.02 CST.,--,--,--,"$10,000.00"
+,2/12/24,01:00:00,BAL,--,Cash balance at the start of the business day 12.02 CST.,--,--,--,"$10,000.00"
+,2/13/24,01:00:00,BAL,--,Cash balance at the start of the business day 13.02 CST.,--,--,--,"$10,000.00"
+,2/14/24,01:00:00,BAL,--,Cash balance at the start of the business day 14.02 CST.,--,--,--,"$10,000.00"
+,2/15/24,01:00:00,BAL,--,Cash balance at the start of the business day 15.02 CST.,--,--,--,"$10,000.00"
+,2/16/24,01:00:00,BAL,--,Cash balance at the start of the business day 16.02 CST.,--,--,--,"$10,000.00"
+,2/17/24,01:00:00,BAL,--,Cash balance at the start of the business day 17.02 CST.,--,--,--,"$10,000.00"
+,2/18/24,01:00:00,BAL,--,Cash balance at the start of the business day 18.02 CST.,--,--,--,"$10,000.00"
+,2/19/24,01:00:00,BAL,--,Cash balance at the start of the business day 19.02 CST.,--,--,--,"$10,000.00"
+,2/20/24,01:00:00,BAL,--,Cash balance at the start of the business day 20.02 CST.,--,--,--,"$10,000.00"
+,2/21/24,01:00:00,BAL,--,Cash balance at the start of the business day 21.02 CST.,--,--,--,"$10,000.00"
+,2/22/24,01:00:00,BAL,--,Cash balance at the start of the business day 22.02 CST.,--,--,--,"$10,000.00"
+,2/23/24,01:00:00,BAL,--,Cash balance at the start of the business day 23.02 CST.,--,--,--,"$10,000.00"
+,2/24/24,01:00:00,BAL,--,Cash balance at the start of the business day 24.02 CST.,--,--,--,"$10,000.00"
+,2/25/24,01:00:00,BAL,--,Cash balance at the start of the business day 25.02 CST.,--,--,--,"$10,000.00"
+,2/26/24,01:00:00,BAL,--,Cash balance at the start of the business day 26.02 CST.,--,--,--,"$10,000.00"
+,2/27/24,01:00:00,BAL,--,Cash balance at the start of the business day 27.02 CST.,--,--,--,"$10,000.00"
+,2/28/24,01:00:00,BAL,--,Cash balance at the start of the business day 28.02 CST.,--,--,--,"$10,000.00"
+,2/29/24,01:00:00,BAL,--,Cash balance at the start of the business day 29.02 CST.,--,--,--,"$10,000.00"
+,3/1/24,01:00:00,BAL,--,Cash balance at the start of the business day 01.03 CST.,--,--,--,"$10,000.00"
+
+ 
+"Total Cash $30,907,862.00"
+
+
+Account Order History
+Notes,,Time Placed,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,PRICE,,TIF,Status
+,,1/5/24 09:37:11,FUTURE,BUY,+100,TO OPEN,/ESH24,MAR 24,,FUTURE,~,MKT,DAY,FILLED
+,,1/4/24 12:39:22,FUTURE,BUY,+100,TO OPEN,/ESH24,MAR 24,,FUTURE,~,MKT,DAY,FILLED
+,,,RE #1766347697,,,,,,,,,,,
+,,1/4/24 12:38:51,FUTURE,BUY,+100,TO OPEN,/ESH24,MAR 24,,FUTURE,4750.00,LMT,DAY,CANCELED
+,,1/2/24 12:14:56,STOCK,BUY,+130000,TO OPEN,SPOT,,,STOCK,~,MKT,DAY,FILLED
+,,1/2/24 11:49:32,STOCK,BUY,+150000,TO OPEN,SMH,,,ETF,~,MKT,DAY,FILLED
+,,1/2/24 11:48:54,STOCK,BUY,+150000,TO OPEN,AMZN,,,STOCK,~,MKT,DAY,FILLED
+
+Account Trade History
+,Exec Time,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,Price,Net Price,Order Type
+,1/5/24 09:37:12,FUTURE,BUY,+100,TO OPEN,/ESH24,MAR 24,,FUTURE,4739.25,4739.25,MKT
+,1/4/24 12:39:24,FUTURE,BUY,+100,TO OPEN,/ESH24,MAR 24,,FUTURE,4750.50,4750.50,MKT
+,1/2/24 12:14:59,STOCK,BUY,+130000,TO OPEN,SPOT,,,STOCK,189.04,189.04,MKT
+,1/2/24 11:49:36,STOCK,BUY,+150000,TO OPEN,SMH,,,ETF,170.41,170.41,MKT
+,1/2/24 11:48:59,STOCK,BUY,+150000,TO OPEN,AMZN,,,STOCK,150.29,150.29,MKT
+
+Equities
+Symbol,Description,Qty,Trade Price,Mark,P/L Day,P/L Open,P/L %,Mark Value
+SPOT,SPOTIFY TECHNOLOGY S.A. COM,+130000,189.04,256.19,"($28,600.00)","$8,729,500.00",+35.52%,"$33,304,700.00"
+AMZN,AMAZON COM INC COM,+150000,150.29,176.80,"$6,000.00","$3,976,500.00",+17.64%,"$26,520,000.00"
+SMH,VANECK ETF TRUST SEMICONDUCTOR ETF,+150000,170.41,213.71,"$264,000.00","$6,495,000.00",+25.41%,"$32,056,500.00"
+,OVERALL TOTALS,,,,"$241,400.00","$19,201,000.00",+26.42%,"$91,881,200.00"
+
+Futures
+Symbol,Description,SPC,Exp,Qty,Trade Price,Mark,P/L Day,P/L Open,Mark Value
+/ESH24,"E-mini S&P 500 Index Futures,Mar-2024,ETH (prev. /ESH4)",1/50,MAR 24,+200,4744.875,5104.75,"$10,000.00","$3,598,750.00","$10,000.00"
+,OVERALL TOTALS,,,,,,"$10,000.00","$3,598,750.00","$10,000.00"
+
+Profits and Losses
+Symbol,Description,P/L Open,P/L %,P/L Day,P/L YTD,P/L Diff,Margin Req,Mark Value
+SPOT,SPOTIFY TECHNOLOGY S.A. COM,"$8,729,500.00",+35.52%,"($28,600.00)","$8,729,500.00","$8,729,500.00","$16,652,350.00","$33,304,700.00"
+AMZN,AMAZON COM INC COM,"$3,976,500.00",+17.64%,"$6,000.00","$3,976,500.00","$3,976,500.00","$13,260,000.00","$26,520,000.00"
+/ESH24,"E-mini S&P 500 Index Futures,Mar-2024,ETH (prev. /ESH4)","$3,598,750.00",+7.58%,"$10,000.00","$3,598,750.00","$3,598,750.00","$2,596,000.00","$10,000.00"
+SMH,VANECK ETF TRUST SEMICONDUCTOR ETF,"$6,495,000.00",+25.41%,"$264,000.00","$6,495,000.00","$6,495,000.00","$16,028,250.00","$32,056,500.00"
+,OVERALL TOTALS,"$22,799,750.00",+18.98%,"$251,400.00","$22,799,750.00","$22,799,750.00","$48,536,600.00","$91,891,200.00"
+
+Forex Account Summary
+Forex Cash,"$10,000.00"
+Forex Unrealized P/L,$0.00
+Forex Floating P/L,$0.00
+Forex Equity,"$10,000.00"
+Forex Margin,$0.00
+Forex Buying Power,"$10,000.00"
+Forex Risk Level,0.00%
+Forex Commissions YTD,$0.00
+
+Account Summary
+Net Liquidating Value,"$122,799,062.00"
+Stock Buying Power,"$148,504,924.00"
+Option Buying Power,"$74,252,462.00"
+Equity Commissions & Fees YTD,$0.00
+Futures Commissions & Fees YTD,$688.00
+Total Commissions & Fees YTD,$688.00
